@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angga A Lanuma</h1>
+<h1 align="center">Hi 👋, I'm Angga Lanuma</h1>
 <h3 align="center">A passionate backend developer and Cloud Engineer from Indonesia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lanuma" alt="lanuma" /></a> </p>
